@@ -71,11 +71,13 @@ python main.py
 # Model Komunikasi
 
 ## 1. Request-Response
+Model sinkron klasik di mana client mengirim request dan menunggu response dari server. Setiap request memiliki pasangan response yang unik. Alur komunikasi:
 - Client kirim request ke server
 - Server memproses dan membalas response
 - Menghasilkan latency (ms)
 
 ## 2. Publish-Subscribe
+Model asinkron berbasis topik di mana publisher tidak mengetahui identitas subscriber. Broker bertindak sebagai perantara yang mengelola routing pesan. Alur komunikasi:
 - Publisher mengirim ke broker
 - Broker mendistribusikan ke subscriber
 - Menghasilkan fan-out
