@@ -1,5 +1,4 @@
 # Simulasi Model Komunikasi Sistem Terdistribusi
-Simulator interaktif berbasis **Python + Tkinter** untuk memvisualisasikan cara kerja model komunikasi pada sistem terdistribusi secara animatif dan real-time.
 # Deskripsi
    Proyek ini adalah simulator interaktif model komunikasi sistem terdistribusi berbasis Python dan Tkinter. Simulator ini memvisualisasikan dua model komunikasi utama secara animatif dan real time, sehingga pengguna dapat mengamati, berinteraksi, serta membandingkan perilaku masing-masing model secara langsung.
 ## Tujuan Utama
