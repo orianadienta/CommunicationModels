@@ -1,4 +1,5 @@
-1. DESKRIPSI PROYEK
+# SIMULASI MODEL KOMUNIKASI
+## 1. DESKRIPSI PROYEK
    Proyek ini adalah simulator interaktif model komunikasi sistem terdistribusi berbasis Python dan Tkinter. Simulator ini memvisualisasikan dua model komunikasi utama secara animatif dan real-time, sehingga pengguna dapat mengamati, berinteraksi, serta membandingkan perilaku masing-masing model secara langsung.
    Tujuan Utama
     • Mendemonstrasikan cara kerja model Request-Response dan Publish-Subscribe
