@@ -1,12 +1,13 @@
-# SIMULASI MODEL KOMUNIKASI
-## 1. DESKRIPSI PROYEK
-   Proyek ini adalah simulator interaktif model komunikasi sistem terdistribusi berbasis Python dan Tkinter. Simulator ini memvisualisasikan dua model komunikasi utama secara animatif dan real-time, sehingga pengguna dapat mengamati, berinteraksi, serta membandingkan perilaku masing-masing model secara langsung.
-   Tujuan Utama
-    • Mendemonstrasikan cara kerja model Request-Response dan Publish-Subscribe
-    • Memvisualisasikan aliran pesan antar node dengan animasi partikel bergerak
-    • Menyediakan mekanisme perbandingan metrik antar model secara live
-    • Memberikan antarmuka interaktif untuk eksperimen komunikasi terdistribusi
-2. STRUKTUR PROYEK
+# Simulasi Model Komunikasi Sistem Terdistribusi
+Simulator interaktif berbasis **Python + Tkinter** untuk memvisualisasikan cara kerja model komunikasi pada sistem terdistribusi secara animatif dan real-time.
+# 1. DESKRIPSI PROYEK
+   Proyek ini adalah simulator interaktif model komunikasi sistem terdistribusi berbasis Python dan Tkinter. Simulator ini memvisualisasikan dua model komunikasi utama secara animatif dan real time, sehingga pengguna dapat mengamati, berinteraksi, serta membandingkan perilaku masing-masing model secara langsung.
+## Tujuan Utama
+- Mendemonstrasikan model **Request-Response** dan **Publish-Subscribe**
+- Memvisualisasikan aliran pesan antar node
+- Menyediakan perbandingan metrik secara live
+- Memberikan UI interaktif untuk eksperimen sistem terdistribusi
+## 2. STRUKTUR PROYEK
    CommunicationModels/
 │
 ├── main.py
@@ -25,4 +26,5 @@
     ├── request_response_tab.py
     ├── pubsub_tab.py
     └── comparison_tab.py
-4. CARA MENJALANKAN PROGRAM
+## 3. CARA MENJALANKAN PROGRAM
+### 
